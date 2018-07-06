@@ -1,0 +1,8 @@
+2018.july.06
+
+The application runs under Python
+
+To execute , from command prompt type : "python main.py" then enter.
+
+You can edit main.py to add or remove rooms to the calculation.
+
